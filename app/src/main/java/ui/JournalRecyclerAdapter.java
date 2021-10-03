@@ -98,6 +98,7 @@ public class JournalRecyclerAdapter extends RecyclerView.Adapter<JournalRecycler
                 @Override
                 public void onClick(View v) {
                       //context.startActivity();
+                      System.out.println("on click triggered")
                 }
             });
 
