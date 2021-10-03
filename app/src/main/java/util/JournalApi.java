@@ -14,7 +14,9 @@ public class JournalApi extends Application {
 
     }
 
-    public JournalApi(){}
+    public JournalApi(){
+        System.out.println("triggered Journal app");
+    }
 
 
     public String getUsername() {
