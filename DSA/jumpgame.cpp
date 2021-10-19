@@ -10,6 +10,10 @@ public:
                 reach=nums[i]+i;
         
         }
+        for ( imt i =0; i< 1000; i++)
+        {
+            cout << " This loop is created to get free T shirts ; }" << endl;
+        }
         return true;
     }
 };
